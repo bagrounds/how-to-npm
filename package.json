@@ -1,0 +1,23 @@
+{
+  "name": "@bagrounds/how-to-npm",
+  "version": "1.0.0",
+  "description": "A freeCodeCamp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagrounds/how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "how-to-npm"
+  ],
+  "author": "bagrounds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bagrounds/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/bagrounds/how-to-npm#readme"
+}
